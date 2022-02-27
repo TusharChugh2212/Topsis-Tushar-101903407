@@ -1,10 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'Topsis-Tushar-101903407',         # How you named your package folder (MyLib)
-  packages = ['Topsis-Tushar-101903407'],   # Chose the same as "name"
+  name = 'TOPSIS-Tushar-101903407',         # How you named your package folder (MyLib)
+  packages = ['TOPSIS-Tushar-101903407'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = '',   # Give a short description about your library
+  description = 'Topsis Value Calculator
+
+CalcTopsis is a Python package implementing Topsis method sed for multi-criteria decision analysis. Topsis stands for Technique for Order of Preference by Similarity to Ideal Solution
+
+Just provide your input attributes and it will give you the results',   # Give a short description about your library
   author = 'Tushar Chugh',                   # Type in your name
   author_email = 'tchugh_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/user/Topsis-Tushar-101903407',   # Provide either the link to your github or to your website
